@@ -1,0 +1,15 @@
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\bin\Debug\net6.0\dotnet-LOL.exe
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\bin\Debug\net6.0\dotnet-LOL.deps.json
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\bin\Debug\net6.0\dotnet-LOL.runtimeconfig.json
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\bin\Debug\net6.0\dotnet-LOL.dll
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\bin\Debug\net6.0\dotnet-LOL.pdb
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.csproj.AssemblyReference.cache
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.AssemblyInfoInputs.cache
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.AssemblyInfo.cs
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.csproj.CoreCompileInputs.cache
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.dll
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\refint\dotnet-LOL.dll
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.pdb
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\dotnet-LOL.genruntimeconfig.cache
+C:\Users\Mari\Documents\GitHub\dotnet-LOL\obj\Debug\net6.0\ref\dotnet-LOL.dll
